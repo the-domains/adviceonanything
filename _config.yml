@@ -1,0 +1,28 @@
+name: adviceonanything
+favicon: null
+layout_spectrum: 0.1335919399280101
+typography_spectrum: 0.11496975389309227
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6961658701766282
+  lightness: 0.8126825359649956
+  saturation: 0.07366529386490583
+  rhythmicContrast: 0.10934152849949896
+purpose: []
